@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/color_backgroup">
+
+    <TextView
+        android:layout_alignParentRight="true"
+        android:id="@+id/tv_id"
+        style="@style/text_item_log"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:gravity="left|center_vertical"
+        android:textSize="15dp"
+        android:layout_centerVertical="true"
+        android:text="2131"/>
+
+    <com.warkiz.widget.IndicatorSeekBar
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/tv_id"
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:isb_max="800"
+        app:isb_min="0"
+        app:isb_tick_num="9"
+        app:isb_indicator_color="@color/color_gray"
+        app:isb_seek_bar_type="discrete_ticks_texts"
+        app:isb_show_indicator="true"
+        app:isb_text_color="@color/color_blue"
+        app:isb_tick_on_thumb_left_hide="true"
+        app:isb_tick_type="none" />
+</RelativeLayout>
