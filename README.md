@@ -1,5 +1,5 @@
 有时候你不想打开android studio ddms 或者 不想在后台(bugtags) 看数据记录
-就可以在手机上简单快速的查看数据日志
+就可以在手机上简单快速的查看数据日志(以悬浮窗的形式)
 原理是主应用程序通过service给另外一个应用LogViewer发数据
 
 
@@ -7,7 +7,13 @@
 
 
 >使用方法 安装 LogViewer.apk 或者git clone下载后编译LogViewer工程
-LogViewer.apk 下载地址 [备用地址](http://aiushtha-github.stor.sinaapp.com/LogViewer-release.apk) 
+LogViewer.apk 
+下载地址 
+[主下载地址](https://github.com/Aiushtha/Android-LogViewer/blob/master/LogViewer-release.apk) 
+[备用下载地址](http://aiushtha-github.stor.sinaapp.com/LogViewer-release.apk) 
+
+
+
 >在你的项目中用引用
 
 ``` javascript
@@ -34,3 +40,6 @@ LogViewer.apk 下载地址 [备用地址](http://aiushtha-github.stor.sinaapp.co
 ```
 
 以下为软件界面的截图
+![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/1.png)
+![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/2.png)
+![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/3.png)
