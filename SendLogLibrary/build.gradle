@@ -38,7 +38,7 @@ apply plugin: 'maven'
 
 ext {
     // 从Github上clone下来的项目的本地地址
-    GITHUB_REPO_PATH = "/Users/linxingzhu/pro/Android-LogViewer/SendLoglibrary"
+    GITHUB_REPO_PATH = "."
     PUBLISH_GROUP_ID = 'com.aiushtha'
     PUBLISH_ARTIFACT_ID = 'logViewer'
     PUBLISH_VERSION = '1.1.1'
