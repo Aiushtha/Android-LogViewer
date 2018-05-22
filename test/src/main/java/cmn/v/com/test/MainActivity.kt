@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+//        MessageLogManager.isAvilible(MessageLogManager.)
         btn.setOnClickListener {
             Toast.makeText(this, "add", Toast.LENGTH_LONG).show()
             MessageLogManager.send({

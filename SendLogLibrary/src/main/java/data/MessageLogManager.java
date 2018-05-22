@@ -14,10 +14,10 @@ import java.util.List;
 
 public class MessageLogManager {
 
-  private static final String activityName = "org.lxz.utils.logviewer.MainActivity";
-  private static final String packName = "org.lxz.utils.logviewer";
-  private static final String serviceName = "org.lxz.utils.logviewer.MainService";
-  private static MessageLogBean bean=new MessageLogBean("","","","","","","","","","");
+  public static final String activityName = "org.lxz.utils.logviewer.MainActivity";
+  public static final String packName = "org.lxz.utils.logviewer";
+  public static final String serviceName = "org.lxz.utils.logviewer.MainService";
+  public static final MessageLogBean bean=new MessageLogBean("","","","","","","","","","");
 
 
   private static String currenyPackName;
