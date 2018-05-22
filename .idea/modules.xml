@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-LogViewer.iml" filepath="$PROJECT_DIR$/Android-LogViewer.iml" />
       <module fileurl="file://$PROJECT_DIR$/LogViewer/LogViewer.iml" filepath="$PROJECT_DIR$/LogViewer/LogViewer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SendLoglibrary/SendLoglibrary.iml" filepath="$PROJECT_DIR$/SendLoglibrary/SendLoglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SendLogLibrary/SendLogLibrary.iml" filepath="$PROJECT_DIR$/SendLogLibrary/SendLogLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
