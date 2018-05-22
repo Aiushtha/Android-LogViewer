@@ -38,6 +38,7 @@ dependencies {
     //    implementation project(':mylibrary')
 //    implementation project(':mylibrary')
     compile 'com.aiushtha:logViewer:1.1.0'
+
 }
 
 

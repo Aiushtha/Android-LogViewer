@@ -38,11 +38,10 @@ apply plugin: 'maven'
 
 ext {
     // 从Github上clone下来的项目的本地地址
-    GITHUB_REPO_PATH = "./"
-    // api 'com.audient:super_library:1.0.0'
+    GITHUB_REPO_PATH = "."
     PUBLISH_GROUP_ID = 'com.aiushtha'
     PUBLISH_ARTIFACT_ID = 'logViewer'
-    PUBLISH_VERSION = '1.1.0'
+    PUBLISH_VERSION = '1.1.1'
 }
 
 uploadArchives {
