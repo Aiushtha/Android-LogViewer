@@ -25,7 +25,7 @@ LogViewer.apk </br>
     }
  }
 ```
->如何给另外LogViewer发消息
+>如何给另外LogViewer发消息的代码
 
 ``` javascript
     MessageLogManager.send({ 
@@ -41,8 +41,8 @@ LogViewer.apk </br>
 
 以下为软件界面的截图
 </br>
->![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/1.png)
+![主程序](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/1.png)
 </br>
->![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/2.png)
+![logview](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/2.png)
 </br>
->![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/3.png)
+![详情](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/3.png)
