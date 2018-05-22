@@ -1,0 +1,27 @@
+//             App.instance.dbSource.readableDatabase.rawQuery("select name from sqlite_master where type='table' order by nam")
+//                     .
+
+//var cursor: Cursor? = App.instance.dbSource.readableDatabase.rawQuery(
+//        "SELECT name FROM sqlite_master WHERE type ='table'", null)
+//if (cursor != null) {
+//    while (cursor.moveToNext()) {
+//        val tablename = cursor.getString(0)
+//        Log.d("test","==>"+tablename)
+//    }
+//}
+////             App.instance.dbSource.writableDatabase.rawQuery("DROP TABLE  ${SqlMessageLog::class.java.simpleName}",null)
+////
+//
+//App.db.raw("delete from '${SqlMessageLog::class.java.simpleName}' where 1 = ? ", arrayListOf(1)).toObservable().subscribe()
+//App.db.raw("update sqlite_sequence set seq=0 where name='${SqlMessageLog::class.java.simpleName}' and 1 = ?",arrayListOf(1)).toObservable().subscribe()
+//
+//
+
+//             App.db.raw("SELECT name FROM sqlite_master WHERE type=’view’ ORDER BY name")
+//                     .toObservable()
+//                     .subscribeBy {
+//                         Toast.makeText(this,it.count().toString(),Toast.LENGTH_LONG).show()
+//                     }
+//                     .update(SqlMessageLogEntity::class)
+
+//

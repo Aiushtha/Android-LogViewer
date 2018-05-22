@@ -1,1 +1,1 @@
-include ':sample', ':test', ':mylibrary'
+include ':LogViewer', ':test', ':SendLoglibrary'

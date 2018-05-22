@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-LogViewer.iml" filepath="$PROJECT_DIR$/Android-LogViewer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogViewer/LogViewer.iml" filepath="$PROJECT_DIR$/LogViewer/LogViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SendLoglibrary/SendLoglibrary.iml" filepath="$PROJECT_DIR$/SendLoglibrary/SendLoglibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
