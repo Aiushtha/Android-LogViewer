@@ -7,9 +7,9 @@
 
 
 >使用方法 安装 LogViewer.apk 或者git clone下载后编译LogViewer工程
-LogViewer.apk 
-下载地址 
-[主下载地址](https://github.com/Aiushtha/Android-LogViewer/blob/master/LogViewer-release.apk) 
+LogViewer.apk </br>
+下载地址 </br>
+[主下载地址](https://github.com/Aiushtha/Android-LogViewer/blob/master/LogViewer-release.apk) </br>
 [备用下载地址](http://aiushtha-github.stor.sinaapp.com/LogViewer-release.apk) 
 
 
@@ -40,6 +40,8 @@ LogViewer.apk
 ```
 
 以下为软件界面的截图
-![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/1.png)
-![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/2.png)
-![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/3.png)
+>![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/1.png)
+
+>![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/2.png)
+
+>![头像](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/3.png)
