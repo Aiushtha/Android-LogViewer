@@ -36,5 +36,13 @@ dependencies {
     })
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
     //    implementation project(':mylibrary')
-    implementation project(':mylibrary')
+//    implementation project(':mylibrary')
+    compile 'com.aiushtha:logviewer:1.1.0'
+}
+
+
+allprojects {
+    repositories {
+        maven { url "https://raw.githubusercontent.com/Aiushtha/Android-LogViewer//master" }
+    }
 }
