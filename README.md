@@ -60,9 +60,6 @@
 以下为软件界面的截图
 </br>
 ![主程序](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/1.png)
-
->注意: ✎  是可以拖拽
-
 </br>
 ![logview](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/2.png)
 </br>
