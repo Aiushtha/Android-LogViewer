@@ -2,7 +2,7 @@
 就可以在手机上简单快速的查看数据日志(以悬浮窗的形式) 以表格的形式展示你 (表格可以列可以拖拽和控制长宽)
 原理是主应用程序通过service给另外一个应用LogViewer发数据
 
->注意: ✎  是可以拖拽
+
 
 ![原理图](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/32B0501A-2A54-473C-825A-BB465D55250D.png)
 
@@ -12,6 +12,7 @@
 
 >使用方法 安装 LogViewer.apk 或者git clone下载后编译LogViewer工程
 
+>注意: ✎  是可以拖拽
 </br>LogViewer.apk </br>
 下载地址 </br>
 [主下载地址](https://github.com/Aiushtha/Android-LogViewer/blob/master/LogViewer-release.apk) </br>
@@ -50,6 +51,8 @@
 ```
 
 如果你很喜欢使用这个应用,可以发送建议到我的邮箱,或者在项目中留言 275518834@qq.com
+
+
 
 以下为软件界面的截图
 </br>
