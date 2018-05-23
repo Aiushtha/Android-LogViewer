@@ -2,7 +2,7 @@
 就可以在手机上简单快速的查看数据日志(以悬浮窗的形式)</br>
 以表格的形式展示 (表格的✎ 列可以拖拽和控制长宽)</br>
 原理是主应用程序通过service给另外一个应用LogViewer发数据</br>
-
+主程序给另外一个程序悬浮窗LogViewer发消息 这样依赖包只有17kb 也不需要申请悬浮窗权限 以json格式展示和分享
 
 
 ![原理图](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/32B0501A-2A54-473C-825A-BB465D55250D.png)
