@@ -13,9 +13,9 @@
 2:有时你和其他后台人员交流时简单快速方便展示或让他人快速了解业务</br>
 
 
->##使用方法 安装 LogViewer.apk 或者git clone下载后编译LogViewer工程##
+>使用方法 安装 LogViewer.apk 或者git clone下载后编译LogViewer工程
 
->##注意: ✎  是可以拖拽##
+>注意: ✎  是可以拖拽
 </br>LogViewer.apk </br>
 下载地址 </br>
 [主下载地址](https://github.com/Aiushtha/Android-LogViewer/blob/master/LogViewer-release.apk) </br>
@@ -28,7 +28,7 @@
  [备用下载地址](http://aiushtha-github.stor.sinaapp.com/test-LogViewer-release.apk)
 
 
->##在你的项目中用引用##
+>在你的项目中用引用
 
 ``` javascript
  compile 'com.aiushtha:logViewer:1.1.2'
