@@ -1,9 +1,12 @@
-有时候你不想打开android studio ddms 或者 不想在后台(bugtags) 看数据记录
-就可以在手机上简单快速的查看数据日志(以悬浮窗的形式)
+有时候不想打开android studio ddms 或者 不想在后台(bugtags) 看数据记录
+就可以在手机上简单快速的查看数据日志(以悬浮窗的形式) 以表格的形式展示你 (表格可以列可以拖拽和控制长宽)
 原理是主应用程序通过service给另外一个应用LogViewer发数据
 
 
-使用场景:有时你和其他后台人员交流时简单快速方便展示或让他人快速了解业务
+![原理图](http://aiushtha-github.stor.sinaapp.com/%E5%9B%BE%E7%89%87/32B0501A-2A54-473C-825A-BB465D55250D.png)
+
+
+使用场景:1:比如你下班已经关电脑了 2:有时你和其他后台人员交流时简单快速方便展示或让他人快速了解业务
 
 
 >使用方法 安装 LogViewer.apk 或者git clone下载后编译LogViewer工程
@@ -12,6 +15,11 @@ LogViewer.apk </br>
 [主下载地址](https://github.com/Aiushtha/Android-LogViewer/blob/master/LogViewer-release.apk) </br>
 [备用下载地址](http://aiushtha-github.stor.sinaapp.com/LogViewer-release.apk) 
 
+
+>发送消息的测试apk TestLogViewer.apk </br>
+ 下载地址 </br>
+ [主下载地址](https://github.com/Aiushtha/Android-LogViewer/blob/master/test-LogViewer-release.apk) </br>
+ [备用下载地址](http://aiushtha-github.stor.sinaapp.com/test-LogViewer-release.apk)
 
 
 >在你的项目中用引用
@@ -38,6 +46,8 @@ LogViewer.apk </br>
     })
 
 ```
+
+如果你很喜欢使用这个应用
 
 以下为软件界面的截图
 </br>
